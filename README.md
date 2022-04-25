@@ -1,6 +1,14 @@
 # Chibong-discord-bot
 Don't have friends to talk?, don't worry this bot right here says hello to you whenever you want your friend to say hello (you've got no friends anyway) A neat bot that says hello use cb!hello to use the bot.
 
+# usage
+ after creating a discord bot using discord devoloper portal make sure to enter your discord bot token in the below line in the pyfile 
+ 
+  ```sh 
+  token = "YOUR TOKEN HERE"
+  ```
+
+
 # Dependencies 
 * [discord](https://discord.com/download)
 * [python](https://www.python.org/downloads)
