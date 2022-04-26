@@ -7,7 +7,8 @@ Don't have friends to talk?, don't worry this bot right here says hello to you w
   ```sh 
   token = "YOUR TOKEN HERE"
   ```
-
+# Chibong Projects
+* Chibong discord bot
 
 # Dependencies 
 * [discord](https://discord.com/download)
